@@ -1,3 +1,3 @@
 # WeatherCast
 
-A platform for checking weather
+A platform for checking the weather
